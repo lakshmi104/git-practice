@@ -9,5 +9,6 @@ The best ways are:
 
 Thank you
 
-##  Summary
-Its a nice repo
+## Summary
+Its a nice repository
+
